@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-beta ver.
 -🛡️Major : Dept of Information Protection
